@@ -1,4 +1,4 @@
-# GuestEase - Hotel Taj Management System
+# GuestEase - Hotel AESTHETIC Management System
 
 A console-based Hotel Management System built in C++ that allows customers to register, login, order food, book rooms, and provides an admin panel for hotel staff. This project demonstrates **basic system design principles** like layered architecture, separation of concerns, and file-based persistence.
 
@@ -378,7 +378,7 @@ password.isPasswordSet()?
 ### INFO.txt (Customer Database)
 ```
   #f010     yash        23   9876543210    yash@email.com        pune
-  #f011      raj        30   9123456789     raj@email.com      mumbai
+  #f011     Shruti      20   9123456789     shruti@email.com      mumbai
 ```
 Format: `#f01<ID>  <name> <age> <phone> <email> <address>`
 
@@ -437,7 +437,7 @@ g++ -o Genesis main.cpp
 ### Home Screen
 ```
 ========================================================================
-                               Welcome to Hotel Taj
+                               Welcome to Hotel AESTHHTIC
                                   A) About
                                   B) Register
                                   C) Login
