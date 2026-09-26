@@ -1,0 +1,55 @@
+==============================================================================
+
+                     How to Use Hotel AESTHETIC Management System
+
+==============================================================================
+
+HOME SCREEN OPTIONS:
+  A) About     - View hotel information, services, and contact details
+  B) Customer  - Register as a new customer to access services
+  C) Help      - You are here! View this help guide
+  D) Setting   - Admin panel (password protected)
+  E) Exit      - Close the application
+
+------------------------------------------------------------------------------
+
+AFTER CUSTOMER REGISTRATION:
+  1) Menu Card - Browse food menu, place orders, and view your bill
+  2) Booking   - Book hotel rooms, view or cancel your bookings
+  3) Back      - Return to home screen
+
+------------------------------------------------------------------------------
+
+ROOM BOOKING:
+  1) View Available Rooms - See which rooms are free
+  2) Book a Room          - Select a room, choose nights, confirm booking
+  3) View My Bookings     - See all your current room bookings
+  4) Cancel Booking       - Cancel an existing booking by Booking ID
+  5) Back                 - Return to previous menu
+
+  Room Types and Prices:
+    Standard  -  1000 Rs/night  (Rooms 1-5)
+    Deluxe    -  2000 Rs/night  (Rooms 6-8)
+    Suite     -  3500 Rs/night  (Rooms 9-10)
+
+------------------------------------------------------------------------------
+
+FOOD ORDERING:
+  - Select items by entering their code number (1-7)
+  - Enter quantity for each item
+  - Press 8 to view your final bill
+
+------------------------------------------------------------------------------
+
+ADMIN SETTINGS (Password Protected):
+  1) Change Password    - Update admin password
+  2) View All Bookings  - See all room bookings
+  3) View All Customers - See all registered customers
+  4) View Total Revenue - See total earnings from bookings
+  5) View All Rooms     - See status of all rooms
+  6) Back to Home       - Return to home screen
+
+  Note: First time you open Settings, you will be asked to create
+        a 4-digit admin password.
+
+==============================================================================
